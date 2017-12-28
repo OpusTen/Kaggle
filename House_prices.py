@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import sklearn
-from sklearn.feature_selection import VarianceThreshold
-from dummy_coding import dummy_df
 from sklearn.preprocessing import LabelEncoder
 from math import sqrt
 
